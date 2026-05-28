@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MC01-cBfU.aternos.me",
-    "port": 53443,
-    "version": "1.21.11",
+    "ip": "MCa1-IBPr.aternos.me",
+    "port":  39299,
+    "version": "26.1",
     "try-creative": true
   },
   "position": {
